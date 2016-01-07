@@ -1,5 +1,5 @@
 # Autodrink
 
 ## List of potential parts
-* Waterpump ()
+* Magnetventil (http://www.electrokit.com/magnetventil-12v-1-2.51108)
 * 
